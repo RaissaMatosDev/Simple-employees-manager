@@ -1,0 +1,29 @@
+# 🔴 Build
+target/
+build/
+
+# 🔴 Config sensível
+src/main/resources/application.properties
+src/main/resources/application*.properties
+.env
+.env.*
+
+# 🔴 Logs
+*.log
+logs/
+
+# 🔴 IntelliJ
+.idea/
+*.iml
+
+# 🔴 VS Code
+.vscode/
+
+# 🔴 Eclipse
+.project
+.classpath
+.settings/
+
+# 🔴 Sistema
+.DS_Store
+Thumbs.db

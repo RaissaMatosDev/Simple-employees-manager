@@ -1,0 +1,1 @@
+ALTER TABLE funcionarios ADD COLUMN funcao VARCHAR(50);
